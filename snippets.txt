@@ -1,0 +1,150 @@
+title: Amazing Zenva Page About Alaska
+icon:
+<link rel="shortcut icon" type="image/ico" href="img/favicon.ico"/>
+
+responsive:
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+Zenva link
+
+https://academy.zenva.com/?zva_src=zenva-homepage
+
+
+divs:
+——
+
+
+*********
+COPYRIGHT YEAR SCRIPT
+*********
+&copy; <script>document.write(new Date().getFullYear())</script>
+
+&rdquo;
+&ldquo;
+&mdash;
+
+
+
+
+*****************
+LINK FONT AWESOME
+*****************
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+
+
+*********
+ADD GOOGLE FONTS
+*********
+
+<link href="https://fonts.googleapis.com/css?family=Oswald|Raleway" rel="stylesheet">
+
+*********
+ADD SIMPLE RESET
+*********
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+*********
+ADD FONT FOR BODY
+*********
+
+html{
+	font-family: 'Raleway' , sans-serif;
+	font-size: 16px;
+	color: #555;
+}
+
+*********
+ADD FONT AWESOME
+*********
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+
+*********
+ADD FONT AWESOME ICONS IN UL LIST
+*********
+
+<ul>
+	<li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
+	<li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
+	<li><a href="#"><i class="fa fa-snapchat-square"></i></a></li>
+	<li><a href="#"><i class="fa fa-pinterest-square"></i></a></li>
+</ul>
+
+*********
+ADD CSS FOR UL
+*********
+
+ul, nav{
+	list-style: none;
+}
+
+*********
+ADD CSS FOR FOOTER
+*********
+
+footer{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+	  color: #fff;
+	  background-color: #131633;
+      background: linear-gradient(to bottom, #284e7a 1%,#000000 100%);
+	  padding: 60px 0;
+    }
+    footer ul{
+        display: flex;
+        margin-bottom:  25px;
+            
+    }
+    footer ul li{
+        margin: 0 8px;
+    }
+        
+    footer ul li a{
+        font-size: 36px;
+        color: white;
+        cursor: pointer;
+    }
+
+    footer p{
+        text-transform: uppercase;
+        font-size: 14px;
+        color: rgba(255,255,255,0.6);
+        margin-bottom: 10px;
+    }
+    
+    @media (max-width: 800px){
+
+        footer{
+            padding: 80px 15px;
+        }
+
+    }
+
+*********
+ANIMATED SCROLL
+*********
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('a[href^="#"]').on('click',function (e) {e.preventDefault();
+
+		var target = this.hash;
+		var $target = $(target);
+
+		$('html, body').stop().animate({
+	        'scrollTop': $target.offset().top
+		}, 900, 'swing', function () {
+	        window.location.hash = target;
+		});
+	       });
+});
+</script>

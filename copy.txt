@@ -1,0 +1,60 @@
+
+FOOTER COPY
+***********
+
+It sure is fun create websites.
+
+Tell me and I forget, teach me and I may remember, involve me and I learn.
+-Benjamin Franklin
+
+
+CONTACT FORM COPY
+***********
+
+Contact us for more info.
+Google forms are easy to forms for everyone. Create a form as easily as creating a document.
+
+
+FAMOUS QUOTES COPY
+***********
+What others say:
+
+No one is useless in this world who lightens the burden of it to anyone else.
+-Charles Dickens
+
+An investment in knowledge pays the best interest.
+-Benjamin Franklin
+
+Learning never exhausts the mind.
+-Leonardo da Vinci
+
+
+GETTING AROUND COPY
+***********
+
+Ways of Traveling
+Here are three ways you can use to travel around Alaska represented by font awesome icons. There are many more ways of traveling, but here are three that fit nicely in this section and have icons that you can manipulate like fonts in CSS.
+
+Airplane
+A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.
+
+Cruise Ships
+A passenger ship used for pleasure voyages, where the voyage itself and the ship's amenities are a part of the experience.
+
+Taxis
+A motor vehicle licensed to transport passengers in return for payment of a fare.
+
+
+GALLERY COPY
+***********
+Released under the CC0 license, Pexels helps people to get access to beautiful photos that they can use freely in projects like websites, blogs, products or book covers. Some of the best free stock photos are at Pexels.
+
+ABOUT ME COPY
+***********
+About Me
+Silent movie fanatic, skateboarder, bottle cap collector, hand letterer and art school grad. Holistic content curator branding thought responsive leadership. Maker at the sweet spot between simplicity and intellectual purity to answer design problems with honest solutions. I work with Fortune 500 companies and startups at the junction of art and computer science to give life to your brand.
+
+HERO COPY
+***********
+Beautiful Alaskan Photo Portfolio
+Breathtaking Landscapes for Your Viewing Pleasure
